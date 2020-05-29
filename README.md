@@ -23,3 +23,4 @@
 ##### Open the project on your terminal:
   - ```atom . or code .``` , according to the type of your text editor.
 ##### Install virtual environment using python:
+  - ```python3.6 -m venv virtual```, check your project to confirm you have a folder called virtual,
