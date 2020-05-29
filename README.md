@@ -15,3 +15,4 @@
 ```sudo apt-get install python3.6```
 ```python --version``` to confirm that python has been installed.
 ##### Open the command-line and run the following command to open a directory:
+  - ```cd your preferred directory``` => ```cd instagram```
