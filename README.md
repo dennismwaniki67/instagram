@@ -19,3 +19,4 @@
 ##### Git clone the project on your current directory by:
   - ```git clone https://github.com/dennismwaniki67/instagram.git```.
 ##### Move to your project directory:
+```cd insta```.
