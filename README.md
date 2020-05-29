@@ -9,3 +9,4 @@
   - Install and activate virtual
   - Setup Database
   - Install Django
+### Installation Process
