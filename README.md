@@ -22,3 +22,4 @@
 ```cd insta```.
 ##### Open the project on your terminal:
   - ```atom . or code .``` , according to the type of your text editor.
+##### Install virtual environment using python:
