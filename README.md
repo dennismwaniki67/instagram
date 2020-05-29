@@ -10,3 +10,4 @@
   - Setup Database
   - Install Django
 ### Installation Process
+##### Download any text editor of your choice, either Sublime, Visual-Studio-Code or Atom.
