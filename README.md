@@ -16,3 +16,5 @@
 ```python --version``` to confirm that python has been installed.
 ##### Open the command-line and run the following command to open a directory:
   - ```cd your preferred directory``` => ```cd instagram```
+##### Git clone the project on your current directory by:
+
